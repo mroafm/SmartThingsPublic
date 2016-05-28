@@ -555,4 +555,3 @@ private byte[] reverseArray(byte[] array) {
 	}
 	return array
 }
-
